@@ -1,7 +1,11 @@
 {
   "name": "frontend",
   "version": "1.0.0",
-  "description": "",
+  "description": "starter storybook frontend",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UXJester/spfx-starter/tree/master/frontend"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
